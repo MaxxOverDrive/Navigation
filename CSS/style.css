@@ -21,7 +21,7 @@ nav {
 
 .nav-links {
   display: flex;
-  background-color: #c1c2c5;
+  background-color: black;
   justify-content: space-around;
   width: 35%;
 }
@@ -75,7 +75,7 @@ nav {
     transition: transform 0.5s ease-in;
   }
   .nav-links li {
-    opacity: 0;
+    opacity: 1;
   }
   .burger {
     display: block;
